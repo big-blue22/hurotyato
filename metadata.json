@@ -1,0 +1,5 @@
+{
+  "name": "Flowchart AI",
+  "description": "An intelligent application that allows you to create and automatically lay out flowcharts by describing a process. Built with React and powered by the Gemini API for smart generation and organization.",
+  "requestFramePermissions": []
+}
